@@ -11,7 +11,7 @@ const App = () => {
       <br></br>
       ------------------------------------
       <br></br>
-      <AddCalculator />
+      {/* <AddCalculator /> */}
     </div>
   );
 }
